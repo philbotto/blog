@@ -1,0 +1,23 @@
+.sidebar-about h1 {
+  font-size: 2.5rem;
+}
+
+.sidebar-social img {
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.sidebar-social a {
+    text-decoration: none;
+    opacity: 0.6;
+}
+
+.sidebar-social a:hover,
+.sidebar-social a:focus {
+    opacity: 1;
+}
+
+.img-circle {
+  border-radius: 50%;
+  border: 3px solid #fff;
+}
